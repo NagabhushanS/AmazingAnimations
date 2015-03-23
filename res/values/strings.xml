@@ -3,7 +3,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Titles -->
-    <string name="app_name">Animations Animations</string>
+    <string name="app_name">Amazing Animations</string>
     <string name="title_crossfade">Simple Crossfade</string>
     <string name="title_card_flip">Card Flip</string>
     <string name="title_screen_slide">Screen Slide</string>
